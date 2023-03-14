@@ -3,6 +3,10 @@
 
 * This project is an implementation of the Least Average Euclidean Distance Model using the gradient descent algorithm to find the optimal point that minimizes the average Euclidean distance from a set of arbitrary points in Euclidean space.
 
+## Methods
+*  [Using The definition of the derivative](https://github.com/Youssef-Ashraf71/Least-Average-Euclidean-Distance/blob/main/Least%20average%20euclidean%20distance%20Model.ipynb)
+* [Using Closed Form evaluated by backward Propagation](https://github.com/Youssef-Ashraf71/Least-Average-Euclidean-Distance/blob/main/Least_average_euclidean_distance_Model.ipynb)
+
 ## Usage
 
 To use this project, you will need to provide a set of arbitrary points in Euclidean space. You can define these points in a file called points.txt in the following format:
@@ -28,6 +32,4 @@ You can configure the gradient descent algorithm by adjusting the following para
 * EPOCHS : the number of iterations used in the gradient descent algorithm
 * DELTA: the convergence criterion used in the gradient descent algorithm
 
-## Methods
-*  [Using The definition of the derivative](https://github.com/Youssef-Ashraf71/Least-Average-Euclidean-Distance/blob/main/Least%20average%20euclidean%20distance%20Model.ipynb)
-* [Using Closed Form evaluated by backward Propagation](https://github.com/Youssef-Ashraf71/Least-Average-Euclidean-Distance/blob/main/Least_average_euclidean_distance_Model.ipynb)
+
