@@ -28,3 +28,6 @@ You can configure the gradient descent algorithm by adjusting the following para
 * EPOCHS : the number of iterations used in the gradient descent algorithm
 * DELTA: the convergence criterion used in the gradient descent algorithm
 
+## Methods
+1- [Using The definition of the derivative](https://github.com/Youssef-Ashraf71/Least-Average-Euclidean-Distance/blob/main/Least%20average%20euclidean%20distance%20Model.ipynb)
+2- [Using Closed Form evaluated by backward Propagation](https://github.com/Youssef-Ashraf71/Least-Average-Euclidean-Distance/blob/main/Least_average_euclidean_distance_Model.ipynb)
